@@ -1,8 +1,7 @@
 import data
 import datetime
 
-from app import db
-from models import User, Order, Offer
+from models import *
 
 # Запись данных в таблицу
 
